@@ -1,6 +1,3 @@
-### Senko-The-Kitsune
-
----
 
 ```js
 new Senko({
