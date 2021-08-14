@@ -26,7 +26,7 @@ Currently trying to verify my discord bot [Senko](https://senkosworld.com/invite
 ---
 
 <div align="center">
-    <a href="https://twitter.com/TrueSenko">
+    <a href="https://twitter.com/SenkoTheKitsune">
         <img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FTrueSenko&style=flat">
     </a>
     <a href="https://discord.gg/senko">
