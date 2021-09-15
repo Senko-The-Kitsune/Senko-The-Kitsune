@@ -3,7 +3,10 @@
 new Senko({
     Reddit: "/u/SenkoTheKitsune",
     Twitter: "@SenkoTheKitsune",
-    Discord: ["Senko-san#0001", "discord.gg/senko"]
+    Discord: {
+        Tag: "Senko-san#0001",
+        Server: "discord.gg/senko"
+    }
 });
 ```
 
