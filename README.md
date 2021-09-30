@@ -5,7 +5,8 @@ new Senko({
     Twitter: "@SenkoTheKitsune",
     Discord: {
         Tag: "Senko-san#0001",
-        Server: "discord.gg/senko"
+        Senkos_World: "discord.gg/senko",
+        Kitsune_Softworks: "discord.gg/kitsune-softworks"
     }
 });
 ```
