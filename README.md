@@ -8,8 +8,7 @@ new Senko({
             Tag: "Senko-san#0001",
             ID: 609097445825052701
         },
-        Senkos_World: "discord.gg/senko",
-        Kitsune_Softworks: "discord.gg/kitsune-softworks"
+        Senkos_World: "discord.gg/senko"
     }
 });
 ```
