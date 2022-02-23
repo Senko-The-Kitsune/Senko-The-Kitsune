@@ -4,15 +4,16 @@ new Senko({
     Reddit: "/u/SenkoTheKitsune",
     Twitter: "@SenkoTheKitsune",
     Discord: {
-        Account: {
-            Tag: "Senko-san#0001",
-            ID: 609097445825052701
-        },
-        Senkos_World: "discord.gg/senko"
+        Tag: "Senko-san#0001",
+        ID: 609097445825052701
     }
 });
 ```
 <div align="center">
+
+[![discord.gg/senko](https://img.shields.io/discord/777251087592718336?color=5865F2&label=discord.gg/senko&logo=discord&logoColor=white)](https://discord.gg/senko)
+    
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U276VOK) -->
 
 ### Things I use
 
